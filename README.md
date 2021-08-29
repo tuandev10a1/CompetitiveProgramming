@@ -4,3 +4,5 @@ Nguyen Ngoc Tuan
 All algorithms I coded:
 Warshall's Algorithm for Connected Components in an undirected graph
 https://ideone.com/SaOHwg
+# Skill
+C++
