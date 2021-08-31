@@ -5,6 +5,8 @@ All algorithms I coded:
 Warshall's Algorithm for Connected Components in an undirected graph
 https://ideone.com/SaOHwg
 Sieve of eratosthenes from a to b
-https://ideone.com/swKcIu
+https://ideone.com/swKcIu 
+dfs check connect graph
+https://ideone.com/7aiqRt
 # Skill
 C++
