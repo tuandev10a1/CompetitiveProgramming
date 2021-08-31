@@ -7,6 +7,8 @@ https://ideone.com/SaOHwg
 Sieve of eratosthenes from a to b
 https://ideone.com/swKcIu 
 dfs check connect graph
-https://ideone.com/7aiqRt
+https://ideone.com/7aiqRt 
+bfs check connect graph 
+https://ideone.com/Fmazmj
 # Skill
 C++
