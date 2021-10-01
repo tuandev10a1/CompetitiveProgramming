@@ -10,5 +10,6 @@ dfs check connect graph
 https://ideone.com/7aiqRt 
 bfs check connect graph 
 https://ideone.com/Fmazmj
+Segment tree https://ideone.com/iG6CDh
 # Skill
 C++
